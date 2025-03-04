@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Khamis Kingi Bahati!  
 
-<!--
-**kingi001/kingi001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I'm a **Software Developer** with 3 years of experience in **building scalable web applications** using Laravel. Passionate about **clean code**, **performance optimization**, and **problem-solving**. I also explore **Cybersecurity, Data Science, and Blockchain** technologies.  
 
-Here are some ideas to get you started:
+🔹 **Tech Stack**: PHP, Laravel, JavaScript, Vue.js, TailwindCSS, MySQL  
+🔹 **Tools**: Git, Docker, Redis, CI/CD, Postman  
+🔹 **Interests**: Open Source, AI, Cloud Computing, DevOps  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats  
+![Kingi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingi001&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kingi001&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kingi001&theme=radical)  
+
+---
+
+## 🏆 Achievements & Contributions  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kingi001&theme=radical)  
+
+### 🔥 Recent GitHub Activity  
+![Kingi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kingi001&theme=radical)  
+
+---
+
+## 🌍 Let's Connect  
+💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+🐦 [Twitter](https://twitter.com/your-handle)  
+📧 Email: your-email@example.com  
+
+---
+
+🚀 **Open to collaborations & new opportunities!** Feel free to reach out. 😃
+
